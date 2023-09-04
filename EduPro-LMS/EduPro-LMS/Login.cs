@@ -16,5 +16,13 @@ namespace EduPro_LMS
         {
             InitializeComponent();
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+            Registration reg = new Registration();
+            reg.Show();
+
+        }
     }
 }
