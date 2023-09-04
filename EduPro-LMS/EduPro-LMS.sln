@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduPro-LMS", "EduPro-LMS\EduPro-LMS.csproj", "{EEC23130-5FCB-4243-9290-89489FEB70FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC23130-5FCB-4243-9290-89489FEB70FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC23130-5FCB-4243-9290-89489FEB70FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC23130-5FCB-4243-9290-89489FEB70FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC23130-5FCB-4243-9290-89489FEB70FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F363CF-7DB0-4F69-8614-93D98EFD75C5}
+	EndGlobalSection
+EndGlobal
