@@ -104,6 +104,8 @@
   <ItemGroup>
     <Content Include="images\login_banner.jpg" />
     <Content Include="images\logo.png" />
+    <Content Include="images\mail.png" />
+    <Content Include="images\padlock.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
