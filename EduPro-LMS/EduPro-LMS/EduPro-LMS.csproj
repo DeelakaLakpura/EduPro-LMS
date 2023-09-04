@@ -102,6 +102,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\close.png" />
     <Content Include="images\login_banner.jpg" />
     <Content Include="images\logo.png" />
     <Content Include="images\mail.png" />

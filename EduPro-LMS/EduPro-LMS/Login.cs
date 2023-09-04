@@ -24,5 +24,15 @@ namespace EduPro_LMS
             reg.Show();
 
         }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Are you sure you want to exit the application", "Are you sure?", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (result == DialogResult.Yes)
+            {
+                this.Close(); // Close the application
+            }
+        }
     }
 }

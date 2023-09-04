@@ -147,7 +147,8 @@
             this.guna2GradientButton2.Name = "guna2GradientButton2";
             this.guna2GradientButton2.Size = new System.Drawing.Size(100, 32);
             this.guna2GradientButton2.TabIndex = 5;
-            this.guna2GradientButton2.Text = "CLEAR";
+            this.guna2GradientButton2.Text = "CLOSE";
+            this.guna2GradientButton2.Click += new System.EventHandler(this.guna2GradientButton2_Click);
             // 
             // label2
             // 
